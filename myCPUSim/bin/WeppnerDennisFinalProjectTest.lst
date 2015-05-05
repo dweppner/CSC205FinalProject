@@ -1,0 +1,25 @@
+     Assembly listing for: WeppnerDennisFinalProjectTest.mas
+                Assembled: Tue May 05 05:45:35 EDT 2015
+
+000 1??? |         LOAD addr1       //
+   **** Operand undefined.
+001 3??? |         ADD addr2        //
+   **** Operand undefined.
+002 6000 |         OUTPUT           //
+003 7000 |         HALT             //
+004 ???? |         ADDR1 HEX        //
+   **** Instruction not recognized.
+   **** Operand undefined.
+005 ???? |         ADDR2 HEX        //
+   **** Instruction not recognized.
+   **** Operand undefined.
+
+6 errors found.  Assembly unsuccessful.
+
+         SYMBOL TABLE
+         --------------------------------------------------
+          Symbol | Defined | References 
+         --------+---------+-------------------------------
+         --------------------------------------------------
+
+

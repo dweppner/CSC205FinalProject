@@ -1,0 +1,6 @@
+	Load	addr1	//
+	Add	addr2	//
+	Output		//
+	Halt		//
+addr1	HEX	0001	//
+addr2	HEX	0002	//
